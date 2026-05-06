@@ -6,4 +6,5 @@ fun main() {
     giveGrade()
     useWhen()
     nullSafety()
+    getUserInfo()
 }

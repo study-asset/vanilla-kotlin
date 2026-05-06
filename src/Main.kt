@@ -1,3 +1,5 @@
+import implementation.checkConnection
+
 fun main() {
     variable()
     println("add: 10 + 20 = ${add(10, 20)}")
@@ -7,4 +9,9 @@ fun main() {
     useWhen()
     nullSafety()
     getUserInfo()
+    loop()
+    listOf()
+    nullable()
+    task()
+    checkConnection()
 }
